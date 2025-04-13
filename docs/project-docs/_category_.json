@@ -1,0 +1,8 @@
+{
+  "label": "Project Documentation",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Comprehensive documentation for the GG Interview System, including business requirements, technical specifications, and project planning."
+  }
+}
